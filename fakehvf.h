@@ -1,6 +1,7 @@
 #pragma once
 #include <stdint.h>
 #include <stdbool.h>
+#include <stddef.h>
 
 // This is a fake shim version of Hypervisor.framework on Linux KVM.
 // It's used for testing a port of QEMU to macOS Apple Silicon
